@@ -1,2 +1,2 @@
 # Optimization-Assignment
-Chebyshev Center of Polyhedron in 2 Euclidian space
+Chebyshev Center of Polyhedron in Euclidian space
